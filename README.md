@@ -1,4 +1,4 @@
-# Results-summary-component-main-front-end-mentor
+# Results-summary-component
 
 Results-summary-component-task
 
